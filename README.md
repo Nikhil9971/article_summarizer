@@ -1,8 +1,9 @@
 # Article Summarizer Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+• Utilized OpenAI’s GPT model for its powerful natural language processing capabilities.
 
-Currently, two official plugins are available:
+• Integrated local storage management for efficient retrieval of the user’s last 5 searches
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+• Effectively handles form events, errors and implemented copy to clipboard functionality
+
+
